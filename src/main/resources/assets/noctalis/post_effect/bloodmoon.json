@@ -1,0 +1,10 @@
+{
+  "targets": ["minecraft:main"],
+  "passes": [
+    {
+      "name": "bloodmoon",
+      "intarget": "minecraft:main",
+      "outtarget": "minecraft:main"
+    }
+  ]
+}
